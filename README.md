@@ -1,10 +1,10 @@
-#*CAESAR CIPHER ENCRYPTION AND DECRYPTION*#
+*CAESAR CIPHER ENCRYPTION AND DECRYPTION*
 
-Overview
+-Overview
 
   The Caesar Cipher is one of the simplest and most widely known encryption techniques. It is a type of substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet. This method was named after Julius Caesar, who used it in his private correspondence.
 
-How It Works
+-How It Works
 
   The Caesar Cipher works by shifting the position of each letter in the plaintext by a fixed number of places determined by the shift value. For example, with a shift of 3:
 
@@ -26,7 +26,7 @@ If the shift moves past the end of the alphabet, it wraps around to the beginnin
 
 The same shift value used for encryption can be used in reverse to decrypt the message.
 
-Features
+-Features
 
   Encrypt Text: Convert plaintext into ciphertext by shifting the characters.
 
@@ -36,7 +36,7 @@ Features
 
   Non-alphabetic Characters: Leaves non-alphabetic characters (e.g., spaces, punctuation) unchanged.
 
-How to Use
+-How to Use
 
 Encrypt a Message:
 
